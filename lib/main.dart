@@ -4,6 +4,7 @@ import 'package:video_player/video_player.dart';
 import 'package:flutter_ffmpeg/flutter_ffmpeg.dart';
 import 'package:path_provider/path_provider.dart';
 import 'dart:io';
+
 void main() {
   runApp(MyApp());
 }
